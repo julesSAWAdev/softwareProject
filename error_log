@@ -1,0 +1,12 @@
+[26-Feb-2020 09:05:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'expgrwmj_sawadev'@'localhost' to database 'expgrwmj_software' in /home2/expgrwmj/public_html/software/connection.php on line 9
+[26-Feb-2020 09:05:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home2/expgrwmj/public_html/software/connection.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/expgrwmj/public_html/software/connection.php on line 10
+[26-Feb-2020 17:51:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/expgrwmj/public_html/software/index.php on line 3
+[26-Feb-2020 17:52:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/expgrwmj/public_html/software/index.php on line 3
+[26-Feb-2020 17:52:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/expgrwmj/public_html/software/index.php on line 3
+[26-Feb-2020 17:53:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/expgrwmj/public_html/software/index.php on line 3
+[26-Feb-2020 17:53:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/expgrwmj/public_html/software/index.php on line 3
+[26-Feb-2020 17:53:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/expgrwmj/public_html/software/index.php on line 3
+[26-Feb-2020 17:54:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/expgrwmj/public_html/software/index.php on line 3
